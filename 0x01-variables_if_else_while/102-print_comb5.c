@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - wa ma kat3yawch men l7adia
- * Return: zwa9 o lbokh
+ * Return: zwa9 o lbokh wa l3yaaaaaaa9a fikom
  */
 int main(void)
 {
@@ -16,7 +16,7 @@ putchar(48 + (i / 10));
 putchar(48 + (i % 10));
 putchar(' ');
 putchar(48 + (j / 10));
-putchar(48 +(j % 10));
+putchar(48 + (j % 10));
 if (i + j != 197)
 {
 putchar(',');
