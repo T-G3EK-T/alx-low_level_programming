@@ -8,12 +8,12 @@ int main(void)
 int c;
 for (c = 0; c <= 9; c++)
 {
+putchar(48 + c);
+if (c != 9)
 {
-if (c != 0)
 putchar(',');
 putchar(' ');
 }
-putchar(48 + c);
 }
 putchar('\n');
 return (0);
