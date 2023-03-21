@@ -16,8 +16,8 @@ if (t >= 10)
 {
 putchar(',');
 putchar(' ');
-putchar(48 + t/10);
-putchar('0' + t%10);
+putchar(48 + t / 10);
+putchar('0' + t % 10);
 }
 else
 {
