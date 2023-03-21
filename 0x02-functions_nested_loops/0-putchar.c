@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main tkharbi9a
+ * main - tkharbi9a
  * Return : lblasstha
  */
 int main(void)
