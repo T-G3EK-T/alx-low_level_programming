@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-
 /**
- * main - haw haw 
+ * main - haw haw
  * Description: ha fakh fakh
  * Return: sriiiiw
 */
-
 int main(void)
 {
 unsigned long int x, y, z, i;
