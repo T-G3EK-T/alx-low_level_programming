@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - hiiiiippa
+ * print_last_digit - hiiiiippa
  * Description: ba7bou7i
  * @c: Ascii code of a char
  * Return: Always 0.
