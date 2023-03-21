@@ -6,7 +6,7 @@
  * @n: int
  * Return: a + b
  */
-int print_to_98(int n)
+void print_to_98(int n)
 {
 printf("%d", n);
 while (n > 98)
