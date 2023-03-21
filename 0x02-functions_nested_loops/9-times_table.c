@@ -14,24 +14,24 @@ for (z = 0; z <= 9; z++)
 t = i * z;
 if (t >= 10)
 {
-putchar(',');
-putchar(' ');
-putchar(48 + t / 10);
-putchar('0' + t % 10);
+_putchar(',');
+_putchar(' ');
+_putchar(48 + t / 10);
+_putchar('0' + t % 10);
 }
 else
 {
 if (z == 0)
 {
-putchar(48 + t);
+_putchar(48 + t);
 continue;
 }
-putchar(',');
-putchar(' ');
-putchar(' ');
-putchar(48 + t);
+_putchar(',');
+_putchar(' ');
+_putchar(' ');
+_putchar(48 + t);
 }
 }
-putchar('\n');
+_putchar('\n');
 }
 }
