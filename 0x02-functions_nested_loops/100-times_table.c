@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * times_table - hiiiiippa
+ * print_times_table - hiiiiippa
  * Description: ba7bou7i
  * @n: sadlfjsalf
  * Return: Always 0.
