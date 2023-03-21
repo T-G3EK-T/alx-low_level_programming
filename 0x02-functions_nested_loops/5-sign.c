@@ -2,7 +2,7 @@
 /**
  * print_sign - hiiiiippa
  * Description: ba7bou7i
- * @c: Ascii code of a char
+ * @n: Ascii code of a char
  * Return: Always 0.
  */
 int print_sign(int n)
