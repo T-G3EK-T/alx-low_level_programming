@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * _isalpha - hiiiiippa
+ * add - hiiiiippa
  * Description: ba7bou7i
  * @a: int
  * @b: int
- * Return: Always 0.
+ * Return: a + b
  */
 int add(int a, int b)
 {
-return(a + b);
+return (a + b);
 }
