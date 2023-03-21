@@ -19,4 +19,5 @@ while (n < 98)
 n++;
 printf(", %d", n);
 }
+printf('\n');
 }
