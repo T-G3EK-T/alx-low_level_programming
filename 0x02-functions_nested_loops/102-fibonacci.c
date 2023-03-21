@@ -21,6 +21,7 @@ x = y;
 y = z;
 if (i == 49)
 {
+printf("\n");
 continue;
 }
 printf(", ");
