@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main - tkharbi9a
- * Return : lblasstha
+ * Description: halawaaaaah
+ * Return: lblasstha
  */
 int main(void)
 {
