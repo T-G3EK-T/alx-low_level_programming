@@ -7,11 +7,12 @@
 void more_numbers(void)
 {
 int i = 0;
+int j = 0;
 while (i < 10)
 {
-while (i <= 14)
+while (j <= 14)
 {
-_putchar(48 + i);
+_putchar(48 + j);
 i++;
 }
 _putchar('\n');
