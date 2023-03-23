@@ -9,11 +9,10 @@ void print_most_numbers(void)
 int i;
 for (i = 0; i < 10; i++)
 {
-if (i == 2 || i == 4)
+if (i != 2 || i != 4)
 {
-continue;
-}
 putchar(48 + i);
+}
 }
 putchar('\n');
 }
