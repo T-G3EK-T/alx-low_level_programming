@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - do3a2
+ * @c: Ascii code of a char
  * Return: Always 0
  */
 int _isupper(int c)
