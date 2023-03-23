@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - do3a2
+ * _isupper - do3a2
  * Description: walaboda z3ma
  * @c: Ascii code of a char
  * Return: Always 0
