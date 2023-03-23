@@ -13,8 +13,9 @@ while (i < 10)
 while (j <= 14)
 {
 _putchar(48 + j);
-i++;
+j++;
 }
 _putchar('\n');
+i++;
 }
 }
