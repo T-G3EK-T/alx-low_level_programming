@@ -2,8 +2,6 @@
 /**
  * print_numbers - do3a2
  * Description: walaboda z3ma
- * @a: ra9em
- * @b: ra9em
  * Return: Always 0
  */
 void print_numbers(void)
