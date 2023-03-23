@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * print_diagonal - do3a2
- * Description: walaboda z3ma
  * @n: ra9em
  * Return: Always 0
  */
