@@ -1,12 +1,16 @@
 #include "main.h"
+
 /**
- * main - kan testiw malna chi 7aja
- * Return: dakchi li testit
+* main - wa b9a 7adini
+* Return: dakchi li 3tina
 */
+
 int main(void)
 {
-int i;
-i = 0;
-positive_or_negative(i);
-return (0);
+        int i;
+
+        i = 0;
+        positive_or_negative(i);
+
+        return (0);
 }
