@@ -14,10 +14,10 @@ for (j = 0; j <= 14; j++)
 {
 if (j > 9)
 {
-putchar(48 + j / 10);
+_putchar(48 + j / 10);
 }
-putchar(48 + j % 10);
+_putchar(48 + j % 10);
 }
-putchar('\n');
+_putchar('\n');
 }
 }
