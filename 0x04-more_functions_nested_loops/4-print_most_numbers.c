@@ -11,8 +11,8 @@ for (i = 0; i < 10; i++)
 {
 if (i != 2 || i != 4)
 {
-putchar(48 + i);
+_putchar(48 + i);
 }
 }
-putchar('\n');
+_putchar('\n');
 }
